@@ -1,0 +1,6 @@
+C:\Users\Navid\Source\Repos\StringDictionary\StringDictionary\bin\Debug\StringDictionary.exe.config
+C:\Users\Navid\Source\Repos\StringDictionary\StringDictionary\bin\Debug\StringDictionary.exe
+C:\Users\Navid\Source\Repos\StringDictionary\StringDictionary\bin\Debug\StringDictionary.pdb
+C:\Users\Navid\Source\Repos\StringDictionary\StringDictionary\obj\Debug\StringTest.csproj.CoreCompileInputs.cache
+C:\Users\Navid\Source\Repos\StringDictionary\StringDictionary\obj\Debug\StringDictionary.exe
+C:\Users\Navid\Source\Repos\StringDictionary\StringDictionary\obj\Debug\StringDictionary.pdb
